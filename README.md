@@ -11,6 +11,8 @@
 
  ## :computer: Technologies that I know
 1.![JavaScript](https://github.com/user-attachments/assets/74f25fb7-45ba-4a3e-a84f-e5ec236a9f0e)
+2.![icons8-typescript-48](https://github.com/user-attachments/assets/a634ae58-327f-4acd-a462-3dd8d7c2b7c0)
+
 2.![c](https://github.com/user-attachments/assets/07ba9ea2-b317-47f9-af60-d27c084d62b3)
 3.![express](https://github.com/user-attachments/assets/cd5affc8-a52e-4f0c-9dee-cb21129d7c57)
 4.![mongo](https://github.com/user-attachments/assets/f9cb272e-ad36-4d7c-9d27-480fe8459993)
