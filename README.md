@@ -1,6 +1,8 @@
 ## Hi there 👋
 ![ZIBRAN HASAN](https://github.com/user-attachments/assets/87c2ee62-4ef2-4065-96b7-c30e91105607)
 
+<!--state-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?zibranhasan=anuraghazra)](https://github.com/zibranhasan/github-readme-stats)
 <!--
 **zibranhasan/zibranhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
