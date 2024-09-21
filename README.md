@@ -2,10 +2,10 @@
 ![ZIBRAN HASAN](https://github.com/user-attachments/assets/87c2ee62-4ef2-4065-96b7-c30e91105607)
 
 <!--state-->
-<img src="https://github-readme-stats.vercel.app/api?username=zibranhasan&hide=contribs,prs&theme=radical"/>
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=zibranhasan&hide=contribs,prs&theme=radical"/>
 
 <!--most used languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zibranhasan&layout=compact"/>
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zibranhasan&layout=compact"/>
 
 <!--
 **zibranhasan/zibranhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
