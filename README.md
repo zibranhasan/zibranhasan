@@ -14,7 +14,10 @@
 5.![react](https://github.com/user-attachments/assets/a446b6d3-7f7b-42f0-b6bf-fdcef2f30e93)
 6.![redux](https://github.com/user-attachments/assets/7383f0fb-2744-4c50-bf2a-f2dbd51bd382)
 7.![tailwind](https://github.com/user-attachments/assets/31042684-32ab-4e5b-ab33-48fa0e35f92f)
-8.![9074062_nextjs_icon](https://github.com/user-attachments/assets/392c4a54-19fc-4c0a-81be-88d9fc68ed8c)
+8.![icons8-next js-48](https://github.com/user-attachments/assets/b5609a01-6a25-4234-8839-385deb28f949)
+9.![icons8-prisma-orm-50](https://github.com/user-attachments/assets/314ce0ed-9987-40e0-b34b-6d134c69d8e6)
+10.![icons8-postgresql-48](https://github.com/user-attachments/assets/884543ca-490f-456a-94fe-6b42da31ef54)
+
 
 
 
