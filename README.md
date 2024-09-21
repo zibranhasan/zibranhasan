@@ -1,10 +1,12 @@
 
 
-<!-- GitHub Stats -->
-<img align="left" height="195px" src="https://github-readme-stats.vercel.app/api?username=zibranhasan&hide=contribs,prs&theme=radical" />
+<div style="display: flex; justify-content: space-between;">
+  <!-- GitHub Stats -->
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=zibranhasan&hide=contribs,prs&theme=radical" />
 
-<!-- Most Used Languages -->
-<img align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zibranhasan&layout=compact" />
+  <!-- Most Used Languages -->
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zibranhasan&layout=compact" />
+</div>
 
 
  ## :computer: Technologies that I know
