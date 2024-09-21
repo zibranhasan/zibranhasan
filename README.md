@@ -1,10 +1,11 @@
 
 
-<!--state-->
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=zibranhasan&hide=contribs,prs&theme=radical"/>
+<!-- GitHub Stats -->
+<img align="left" height="195px" src="https://github-readme-stats.vercel.app/api?username=zibranhasan&hide=contribs,prs&theme=radical" />
 
-<!--most used languages -->
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zibranhasan&layout=compact"/>
+<!-- Most Used Languages -->
+<img align="left" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zibranhasan&layout=compact" />
+
 
  ## :computer: Technologies that I know
 1.![JavaScript](https://github.com/user-attachments/assets/74f25fb7-45ba-4a3e-a84f-e5ec236a9f0e)
