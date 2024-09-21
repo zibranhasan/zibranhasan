@@ -11,17 +11,17 @@
 
 
  ## :computer: Technologies that I know
-1.![JavaScript](https://github.com/user-attachments/assets/74f25fb7-45ba-4a3e-a84f-e5ec236a9f0e)
-2.![icons8-typescript-48](https://github.com/user-attachments/assets/a634ae58-327f-4acd-a462-3dd8d7c2b7c0)
-2.![c](https://github.com/user-attachments/assets/07ba9ea2-b317-47f9-af60-d27c084d62b3)
-5.![react](https://github.com/user-attachments/assets/a446b6d3-7f7b-42f0-b6bf-fdcef2f30e93)
-8.![icons8-next js-48](https://github.com/user-attachments/assets/b5609a01-6a25-4234-8839-385deb28f949)
-6.![redux](https://github.com/user-attachments/assets/7383f0fb-2744-4c50-bf2a-f2dbd51bd382)
-7.![tailwind](https://github.com/user-attachments/assets/31042684-32ab-4e5b-ab33-48fa0e35f92f)
-3.![express](https://github.com/user-attachments/assets/cd5affc8-a52e-4f0c-9dee-cb21129d7c57)
-9.![icons8-prisma-orm-50](https://github.com/user-attachments/assets/314ce0ed-9987-40e0-b34b-6d134c69d8e6)
-4.![mongo](https://github.com/user-attachments/assets/f9cb272e-ad36-4d7c-9d27-480fe8459993)
-10.![icons8-postgresql-48](https://github.com/user-attachments/assets/884543ca-490f-456a-94fe-6b42da31ef54)
+![JavaScript](https://github.com/user-attachments/assets/74f25fb7-45ba-4a3e-a84f-e5ec236a9f0e)
+![icons8-typescript-48](https://github.com/user-attachments/assets/a634ae58-327f-4acd-a462-3dd8d7c2b7c0)
+![c](https://github.com/user-attachments/assets/07ba9ea2-b317-47f9-af60-d27c084d62b3)
+![react](https://github.com/user-attachments/assets/a446b6d3-7f7b-42f0-b6bf-fdcef2f30e93)
+![icons8-next js-48](https://github.com/user-attachments/assets/b5609a01-6a25-4234-8839-385deb28f949)
+![redux](https://github.com/user-attachments/assets/7383f0fb-2744-4c50-bf2a-f2dbd51bd382)
+![tailwind](https://github.com/user-attachments/assets/31042684-32ab-4e5b-ab33-48fa0e35f92f)
+![express](https://github.com/user-attachments/assets/cd5affc8-a52e-4f0c-9dee-cb21129d7c57)
+![icons8-prisma-orm-50](https://github.com/user-attachments/assets/314ce0ed-9987-40e0-b34b-6d134c69d8e6)
+![mongo](https://github.com/user-attachments/assets/f9cb272e-ad36-4d7c-9d27-480fe8459993)
+![icons8-postgresql-48](https://github.com/user-attachments/assets/884543ca-490f-456a-94fe-6b42da31ef54)
 
 
 
