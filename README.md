@@ -2,11 +2,12 @@
 
 <div style="display: flex; justify-content: space-between;">
   <!-- GitHub Stats -->
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=zibranhasan&hide=contribs,prs&theme=radical" />
+  <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=zibranhasan&hide=contribs,prs&theme=radical" />
 
   <!-- Most Used Languages -->
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zibranhasan&layout=compact" />
+  <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zibranhasan&layout=compact" />
 </div>
+
 
 
  ## :computer: Technologies that I know
