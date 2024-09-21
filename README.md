@@ -1,5 +1,4 @@
-![postgresql-inc](https://github.com/user-attachments/assets/edbbb966-3135-42b7-94b4-7eacc518a9f5)![prisma-2](https://github.com/user-attachments/assets/91b59a49-7315-48ed-81d7-b727b8cdd3e7)## Hi there 👋
-![ZIBRAN HASAN](https://github.com/user-attachments/assets/87c2ee62-4ef2-4065-96b7-c30e91105607)
+
 
 <!--state-->
 <img align="left" height="100%" width="48%" src="https://github-readme-stats.vercel.app/api?username=zibranhasan&hide=contribs,prs&theme=radical"/>
