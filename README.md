@@ -1,7 +1,7 @@
 
 
 <!--state-->
-<img align="left" height="100%" width="48%" src="https://github-readme-stats.vercel.app/api?username=zibranhasan&hide=contribs,prs&theme=radical"/>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=zibranhasan&hide=contribs,prs&theme=radical"/>
 
 <!--most used languages -->
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zibranhasan&layout=compact"/>
