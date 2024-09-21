@@ -4,7 +4,7 @@
 <!--state-->
 [![Zibran's GitHub stats](https://github-readme-stats.vercel.app/api?username=zibranhasan&hide=contribs,prs&theme=radical)](https://github.com/zibranhasan/github-readme-stats)
 <!--most used languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zibranhasana&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zibranhasan&layout=compact)
 <!--
 **zibranhasan/zibranhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
