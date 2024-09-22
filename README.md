@@ -3,14 +3,14 @@
 
 <!--ststes-->
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=zibranhasan&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+<!--   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=zibranhasan&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" /> -->
 </p>
 
 
 <div style="display: flex; justify-content: space-between;">
   <!-- GitHub Stats -->
-  <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=zibranhasan&hide=contribs,prs&theme=radical" />
-
+<!--   <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=zibranhasan&hide=contribs,prs&theme=radical" /> -->
+ <img width="47%"  height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=zibranhasan&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
   <!-- Most Used Languages -->
   <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zibranhasan&layout=compact" />
 </div>
