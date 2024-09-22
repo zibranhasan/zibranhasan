@@ -1,14 +1,11 @@
 
 ![ZIBRAN HASAN](https://github.com/user-attachments/assets/628889ae-768f-4ce9-9b67-fd8065ae3255)
 
-
-
-
-
 <!--ststes-->
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=zibranhasan&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="100%" height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=zibranhasan&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
+
 
 <div style="display: flex; justify-content: space-between;">
   <!-- GitHub Stats -->
