@@ -10,7 +10,7 @@
 <div style="display: flex; justify-content: center;">
  
   <!-- Most Used Languages -->
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zibranhasan&layout=compact" />
+  <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zibranhasan&layout=compact" />
 </div>
 
 
